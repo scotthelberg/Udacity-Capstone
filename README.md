@@ -30,6 +30,7 @@ In this project, I got to develop a dog breed classifier module. I learned how t
  8. Test the algorithm - Happy to say that with my 6 test images, the algorithm correctly identified all 6 as either human or dog. The specific breed had more mixed results. 
 
 Blogpost can be found here: https://medium.com/@scott.helberg/when-is-a-dog-a-dog-2bac24e09348
+Github repository here: https://github.com/scotthelberg/Udacity-Capstone/edit/main/README.md
 
 # Acknowledgements
 Thank you to Udacity and RSM for giving me the opportunity to expand my understanding of data science and attain this nanodegree. 
